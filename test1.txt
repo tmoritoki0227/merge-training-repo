@@ -1,1 +1,3 @@
 これは test1.txt の初期バージョンです。（master）
+A
+S
