@@ -1,2 +1,5 @@
 これは test1.txt の初期バージョンです。（master）
 おおおおおおお
+aooooa
+
+aaaa
